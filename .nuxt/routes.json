@@ -1,9 +1,14 @@
 [
   {
+    "name": "idx",
+    "path": "/idx",
+    "component": "/Users/sarah/Sites/idx-test/app/pages/idx.vue",
+    "chunkName": "pages/idx"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/sarah/Sites/idx-test/app/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_17afc04b"
+    "chunkName": "pages/index"
   }
 ]
