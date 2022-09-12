@@ -7,7 +7,8 @@
 export default {
   beforeMount() {
     console.log("idx page", ihfKestrel);
-    document.currentScript.replaceWith(ihfKestrel.render());
+    // document.currentScript.replaceWith(ihfKestrel.render());
+    ihfKestrel.render();
   },
 };
 </script>
